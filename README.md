@@ -16,4 +16,4 @@ A focused static portfolio for Kyrollos Safwat, a Computer Science and Informati
 - `assets/` — project screenshots
 
 ## Hosting
-The site is static and can be hosted for free with GitHub Pages.
+The site is a static hosted on GitHub
